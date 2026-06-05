@@ -1,0 +1,7 @@
+interface:
+  display_name: "Copilot SDK"
+  short_description: "Build with GitHub Copilot SDK v1.0+"
+  default_prompt: "Use $copilot-sdk to build or review a Node.js/TypeScript integration with GitHub Copilot SDK v1.0+."
+
+policy:
+  allow_implicit_invocation: true
