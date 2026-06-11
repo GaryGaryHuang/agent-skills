@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenAI Agents JS"
+  short_description: "Build, review, and debug @openai/agents JS/TS apps"
+  default_prompt: "Use $openai-agents-js to build, review, or debug an OpenAI Agents SDK JavaScript/TypeScript app."

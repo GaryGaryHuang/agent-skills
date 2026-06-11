@@ -5,13 +5,14 @@ Reusable `SKILL.md`-based agent skills for Codex, GitHub Copilot, and compatible
 ## Skills
 
 - `copilot-sdk`: Guidance for building production Node.js/TypeScript apps with GitHub Copilot SDK v1.0+ using official GA docs and installed SDK types.
+- `openai-agents-js`: Guidance for building, reviewing, debugging, and documenting OpenAI Agents SDK JavaScript/TypeScript apps using `@openai/agents`.
 
 ## Install
 
 Clone this repository, then install one skill into your local agent skills directory:
 
 ```bash
-./scripts/install.sh copilot-sdk
+./scripts/install.sh openai-agents-js
 ```
 
 By default, the installer writes to `~/.agents/skills`. To install into a different skills directory:
