@@ -1,0 +1,4 @@
+interface:
+  display_name: "Karpathy-Inspired Coding Guardrails"
+  short_description: "Grounded, scoped, verifiable coding work"
+  default_prompt: "Use $karpathy-coding-guardrails to handle this coding task with grounded decisions, the smallest complete scope, preservation of unrelated work, and evidence-backed verification."
