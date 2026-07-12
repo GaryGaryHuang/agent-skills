@@ -5,6 +5,7 @@ Reusable `SKILL.md`-based agent skills for Codex, GitHub Copilot, and compatible
 ## Skills
 
 - `copilot-sdk`: Guidance for building production Node.js/TypeScript apps with GitHub Copilot SDK v1.0+ using official GA docs and installed SDK types.
+- `karpathy-coding-guardrails`: Behavioral guardrails for grounded decisions, minimal but complete changes, preservation of unrelated work, and evidence-backed verification.
 - `openai-agents-js`: Guidance for building, reviewing, debugging, and documenting OpenAI Agents SDK JavaScript/TypeScript apps using `@openai/agents`.
 
 ## Install
